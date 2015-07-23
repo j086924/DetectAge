@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DetectAge</string>
+    <string name="action_settings">Settings</string>
+    <string name="capture_photo">capture</string>
+    <string name="select_photo">select</string>
+    <string name="detect">detect</string>
+    <string name="save">save</string>
+
+</resources>
